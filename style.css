@@ -131,7 +131,7 @@ header h1 {
 }
 
 /* Responsive Design */
-@media (min-width: 480px) {
+@media (max-width: 480px) {
     body {
         gap: 30px;
     }
